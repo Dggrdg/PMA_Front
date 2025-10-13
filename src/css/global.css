@@ -1,0 +1,16 @@
+.btn{
+    font-weight: 1000 !important;
+}
+
+.displayArea{
+    padding: 30px;
+}
+
+#header .navbar{
+    padding: 20px;
+    background-color: rgb(0, 153, 255) !important;
+}
+
+#header .navbar a{
+    font-weight: 1000;
+}
